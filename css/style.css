@@ -315,3 +315,7 @@ textarea {
 	top: 10px;
 	left: 40px;
 }
+
+.ba-article-header-logo-text small {
+	font-size: 11px;
+}
